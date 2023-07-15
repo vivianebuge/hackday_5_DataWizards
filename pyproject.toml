@@ -20,6 +20,7 @@ Boruta = "^0.3"
 math0 = "^1.1"
 pivottablejs = "^0.9.0"
 ipython = "^8.14.0"
+sweetviz = "^2.1.4"
 
 
 [tool.poetry.group.dev.dependencies]
