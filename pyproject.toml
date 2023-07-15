@@ -23,6 +23,7 @@ ipython = "^8.14.0"
 
 
 [tool.poetry.group.dev.dependencies]
+ipykernel = "^6.24.0"
 
 
 [build-system]
